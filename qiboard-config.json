@@ -1,0 +1,13 @@
+{
+    "sqlite3db": "qiboard-database-00.db3",
+    "name": "Nightfloat 1337",
+    "button0": "Reason 1",
+    "button1": "Reason 2",
+    "button2": "Reason 3",
+    "button3": "Reason 4",
+    "button4": "Reason 5",
+
+    "remotedb_username_env": "QIB_USERNAME",
+    "remotedb_password_env": "QIB_PASSWORD",
+    "remotedb_upload_freq": "hourly"
+}
